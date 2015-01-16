@@ -65,3 +65,10 @@
         //print_r($key);
         echo $key['city'].' - '.$key['country'].' - '.$key['continent']."<br>";
     }
+    echo "<br>"."<br";
+$cards=array('Red'=>array(1,2,3,4),
+            'Blue'=>array(1,2,3,4),
+            'Green'=>array(1,2,3,4),
+            'Red'=>array(1,2,3,4));
+print_r($cards);
+echo "<br>"."<br";
